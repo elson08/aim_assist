@@ -1,0 +1,13 @@
+.idea/
+
+build/
+build-*/
+cmake-build-*/
+
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+Makefile
+*.ninja
+.ninja_*
